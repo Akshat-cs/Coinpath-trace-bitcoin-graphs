@@ -6,8 +6,8 @@ Usage:
     python coinpath_trace.py <address> --network <chain> --from <date> --till <date>
 
 Examples:
-    python coinpath_trace.py bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh --network bitcoin --from 2024-01-01 --till 2024-06-01
-    python coinpath_trace.py 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa --network bitcoin --from 2023-01-01 --till 2023-12-31 --depth 2
+    python coinpath_trace.py bc1p4kufll9uhnpkgzuc65slcxd2qaw2hl9xecket3h8yyu4awglcsqslqaztd --network bitcoin --from 2023-10-10 --till 2024-01-01
+    python coinpath_trace.py 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa --network bitcoin --from 2023-01-01 --till 2023-12-31
 """
 
 import argparse
